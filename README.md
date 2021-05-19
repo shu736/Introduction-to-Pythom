@@ -1,2 +1,2 @@
-# Introduction-to-Pythom
+# Introduction-to-Python
 Summer Internship
